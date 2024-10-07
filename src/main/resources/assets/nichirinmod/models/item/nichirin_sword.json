@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "nichirinmod:item/nichirin_sword"
+  }
+}
